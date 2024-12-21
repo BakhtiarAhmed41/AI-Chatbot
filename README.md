@@ -1,4 +1,4 @@
-# Chatbot Interface Using Google Generative AI and Gradio
+# AI Chatbot Using Google Generative AI and Gradio
 
 This repository contains a Python-based chatbot interface that utilizes Google Generative AI's `gemini-pro` model to create an interactive conversational application. The interface is built with Gradio for an intuitive and user-friendly experience.
 
